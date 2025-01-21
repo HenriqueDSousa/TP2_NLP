@@ -1,3 +1,0 @@
-Salto_N sete_ADJ
-
-O_ART grande_ADJ assunto_N
